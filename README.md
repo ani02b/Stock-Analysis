@@ -4,10 +4,10 @@ Stock market analysis is the method used by a trader or investor to examine and 
 This project endeavors to delve into the realm of stock market analysis, utilizing the power of Python to extract valuable insights from vast and intricate financial dataset. Python serves as an indispensable tool in our quest to navigate the complexities of the stock market.
 
 ## What is done
-The data in CSV file are loaded and inspected using info(),head() and describe() methods to understand its structure, data types and statistics.
+<pre>The data in CSV file are loaded and inspected using info(),head() and describe() methods to understand its structure, data types and statistics.
 Box plot is created to visualize the distribution of stock prices (Open, High, Low, Close).
 The data is split into training and testing sets and the sets are standardized. A simple linear regression model is created using the training data.
-The actual and predicted values for the training dataset are plotted using Plotly.
+The actual and predicted values for the training dataset are plotted using Plotly.</pre>
 
 Output provides the following evaluation metrics:-
 1. R-squared: Indicates the proportion of the variance in the dependent variable (stock prices) that is predictable from the independent variable (days).
