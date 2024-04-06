@@ -16,3 +16,8 @@ Output provides the following evaluation metrics:-
 ![image](https://github.com/ani02b/Stock-Analysis/assets/139071058/515e08ce-5b13-43e2-ab7b-7f269874f876)
 
 ![image](https://github.com/ani02b/Stock-Analysis/assets/139071058/b0f15a88-3304-4b5d-ba80-1425c68f5f43)
+
+## Conclusion
+Overall, this Python project provided valuable insights into the world of stock market analysis. By leveraging the power of Python libraries like numpy, sklearn, etc. we were able to gain a deeper understanding of historical trends, relationships between factors. 
+
+This project can potentially inform investment decisions, with proper research.
