@@ -15,4 +15,4 @@ Output provides the following evaluation metrics:-
 
 ![image](https://github.com/ani02b/Stock-Analysis/assets/139071058/515e08ce-5b13-43e2-ab7b-7f269874f876)
 
-![image](https://github.com/ani02b/Stock-Analysis/assets/139071058/7a2814a3-9b7c-4d77-accb-c0bd5985d012)
+![image](https://github.com/ani02b/Stock-Analysis/assets/139071058/b0f15a88-3304-4b5d-ba80-1425c68f5f43)
